@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46200" started-at="2015-12-02T13:04:38Z" finished-at="2015-12-02T13:05:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46200" started-at="2015-12-02T13:04:38Z" finished-at="2015-12-02T13:05:25Z">
+      <class name="com.jayhanautomation.Jayhanframework.DicesignIn">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jayhanautomation.Jayhanframework.DicesignIn@2a693f59]" name="setup" is-config="true" duration-ms="1476" started-at="2015-12-02T08:04:38Z" finished-at="2015-12-02T08:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signin()[pri:1, instance:com.jayhanautomation.Jayhanframework.DicesignIn@2a693f59]" name="signin" duration-ms="24055" started-at="2015-12-02T08:04:40Z" finished-at="2015-12-02T08:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="jobsearch()[pri:2, instance:com.jayhanautomation.Jayhanframework.DicesignIn@2a693f59]" name="jobsearch" duration-ms="19156" started-at="2015-12-02T08:05:04Z" finished-at="2015-12-02T08:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobsearch -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jayhanautomation.Jayhanframework.DicesignIn@2a693f59]" name="teardown" is-config="true" duration-ms="1468" started-at="2015-12-02T08:05:23Z" finished-at="2015-12-02T08:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jayhanautomation.Jayhanframework.DicesignIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
